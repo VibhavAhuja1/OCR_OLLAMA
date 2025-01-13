@@ -122,19 +122,6 @@ streamlit run app.py
 ```
 
 
-## Examples Output
-### Input Image
-![Input Image](input/img.png)
-
-
-### Sample Output
-![Sample Output](output/image.png)
-![Sample Output](output/markdown.png)
-
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 Built with Ollama
 Powered by LLaMA Vision Models
