@@ -1,8 +1,4 @@
-<a href="https://github.com/imanoop7/Ollama-OCR"><img src="https://img.shields.io/github/stars/imanoop7/Ollama-OCR.svg?style=social&label=Star" alt="Stargazers"></a>
-<a href="https://github.com/imanoop7/Ollama-OCR/graphs/commit-activity"><img src="https://img.shields.io/github/commit-activity/m/imanoop7/Ollama-OCR.svg" alt="Commit Activity"></a>
-<a href="https://github.com/imanoop7/Ollama-OCR"><img src="https://img.shields.io/github/last-commit/imanoop7/Ollama-OCR.svg" alt="Last Commit"></a>
-<a href="https://github.com/imanoop7/Ollama-OCR/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/imanoop7/Ollama-OCR.svg" alt="Contributors"></a>
-# Ollama OCR 🔍
+
 
 A powerful OCR (Optical Character Recognition) package that uses state-of-the-art vision language models through Ollama to extract text from images. Available both as a Python package and a Streamlit web application.
 
